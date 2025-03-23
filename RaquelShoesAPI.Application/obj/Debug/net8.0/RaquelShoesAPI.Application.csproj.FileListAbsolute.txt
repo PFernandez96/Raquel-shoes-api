@@ -1,0 +1,17 @@
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/bin/Debug/net8.0/RaquelShoesAPI.Application.deps.json
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/bin/Debug/net8.0/RaquelShoesAPI.Application.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/bin/Debug/net8.0/RaquelShoesAPI.Application.pdb
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/bin/Debug/net8.0/RaquelShoesAPI.Domain.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/bin/Debug/net8.0/RaquelShoesAPI.Infrastructure.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/bin/Debug/net8.0/RaquelShoesAPI.Domain.pdb
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/bin/Debug/net8.0/RaquelShoesAPI.Infrastructure.pdb
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/Debug/net8.0/RaquelShoesAPI.Application.csproj.AssemblyReference.cache
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/Debug/net8.0/RaquelShoesAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/Debug/net8.0/RaquelShoesAPI.Application.AssemblyInfoInputs.cache
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/Debug/net8.0/RaquelShoesAPI.Application.AssemblyInfo.cs
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/Debug/net8.0/RaquelShoesAPI.Application.csproj.CoreCompileInputs.cache
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/Debug/net8.0/RaquelShoesAPI.Application.csproj.CopyComplete
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/Debug/net8.0/RaquelShoesAPI.Application.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/Debug/net8.0/refint/RaquelShoesAPI.Application.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/Debug/net8.0/RaquelShoesAPI.Application.pdb
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/Debug/net8.0/ref/RaquelShoesAPI.Application.dll

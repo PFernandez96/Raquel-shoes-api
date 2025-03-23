@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.WebApi/RaquelShoesAPI.WebAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/RaquelShoesAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/RaquelShoesAPI.Application.csproj",
+        "projectName": "RaquelShoesAPI.Application",
+        "projectPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/RaquelShoesAPI.Application.csproj",
+        "packagesPath": "/Users/paolofernandez/.nuget/packages/",
+        "outputPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/paolofernandez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/RaquelShoesAPI.Domain.csproj": {
+                "projectPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/RaquelShoesAPI.Domain.csproj"
+              },
+              "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/RaquelShoesAPI.Infrastructure.csproj": {
+                "projectPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/RaquelShoesAPI.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.14_1/libexec/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/RaquelShoesAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/RaquelShoesAPI.Domain.csproj",
+        "projectName": "RaquelShoesAPI.Domain",
+        "projectPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/RaquelShoesAPI.Domain.csproj",
+        "packagesPath": "/Users/paolofernandez/.nuget/packages/",
+        "outputPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/paolofernandez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.14_1/libexec/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/RaquelShoesAPI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/RaquelShoesAPI.Infrastructure.csproj",
+        "projectName": "RaquelShoesAPI.Infrastructure",
+        "projectPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/RaquelShoesAPI.Infrastructure.csproj",
+        "packagesPath": "/Users/paolofernandez/.nuget/packages/",
+        "outputPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/paolofernandez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/RaquelShoesAPI.Domain.csproj": {
+                "projectPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/RaquelShoesAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.14_1/libexec/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.WebApi/RaquelShoesAPI.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.WebApi/RaquelShoesAPI.WebAPI.csproj",
+        "projectName": "RaquelShoesAPI.WebAPI",
+        "projectPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.WebApi/RaquelShoesAPI.WebAPI.csproj",
+        "packagesPath": "/Users/paolofernandez/.nuget/packages/",
+        "outputPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/paolofernandez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/RaquelShoesAPI.Application.csproj": {
+                "projectPath": "/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Application/RaquelShoesAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.14_1/libexec/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

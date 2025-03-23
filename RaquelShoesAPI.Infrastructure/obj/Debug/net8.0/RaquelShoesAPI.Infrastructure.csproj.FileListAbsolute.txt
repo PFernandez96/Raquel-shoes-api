@@ -1,0 +1,17 @@
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/bin/Debug/net8.0/RaquelShoesAPI.Infrastructure.deps.json
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/bin/Debug/net8.0/RaquelShoesAPI.Infrastructure.runtimeconfig.json
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/bin/Debug/net8.0/RaquelShoesAPI.Infrastructure.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/bin/Debug/net8.0/RaquelShoesAPI.Infrastructure.pdb
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/bin/Debug/net8.0/RaquelShoesAPI.Domain.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/bin/Debug/net8.0/RaquelShoesAPI.Domain.pdb
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/RaquelShoesAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/RaquelShoesAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/RaquelShoesAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/RaquelShoesAPI.Infrastructure.AssemblyInfo.cs
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/RaquelShoesAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/RaquelShoesAPI.Infrastructure.csproj.CopyComplete
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/RaquelShoesAPI.Infrastructure.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/refint/RaquelShoesAPI.Infrastructure.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/RaquelShoesAPI.Infrastructure.pdb
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/RaquelShoesAPI.Infrastructure.genruntimeconfig.cache
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Infrastructure/obj/Debug/net8.0/ref/RaquelShoesAPI.Infrastructure.dll

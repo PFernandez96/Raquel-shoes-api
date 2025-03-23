@@ -1,0 +1,11 @@
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/bin/Debug/net8.0/RaquelShoesAPI.Domain.deps.json
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/bin/Debug/net8.0/RaquelShoesAPI.Domain.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/bin/Debug/net8.0/RaquelShoesAPI.Domain.pdb
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/obj/Debug/net8.0/RaquelShoesAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/obj/Debug/net8.0/RaquelShoesAPI.Domain.AssemblyInfoInputs.cache
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/obj/Debug/net8.0/RaquelShoesAPI.Domain.AssemblyInfo.cs
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/obj/Debug/net8.0/RaquelShoesAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/obj/Debug/net8.0/RaquelShoesAPI.Domain.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/obj/Debug/net8.0/refint/RaquelShoesAPI.Domain.dll
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/obj/Debug/net8.0/RaquelShoesAPI.Domain.pdb
+/Users/paolofernandez/RaquelShoesProject/RaquelShoesAPI.Domain/obj/Debug/net8.0/ref/RaquelShoesAPI.Domain.dll
